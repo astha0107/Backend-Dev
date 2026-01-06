@@ -1,0 +1,7 @@
+mkdir- Used to create a new folder
+ls- used to show file and folder in current directory
+cat- used to display file content on terminal
+touch- used to create new empty file
+cp- copy file/folder's content
+cd- used to move between folders
+pwd- print working directory. shows current directory path you are in.
